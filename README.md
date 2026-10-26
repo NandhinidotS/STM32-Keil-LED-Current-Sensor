@@ -202,7 +202,7 @@ Zero: <value> mV   LED on: <value> mV   LED current: <value> mA
 
 ### PowerShell Serial Output
 
-![PowerShell Serial Output](PowerShell.jpeg)
+![PowerShell Serial Output](Powershell.jpeg)
 
 ## How to Run
 
